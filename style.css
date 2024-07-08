@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 10px;
+    font-family: monospace;
+}
+
+input[type=number]{
+    margin-bottom: 1em;
+    font-size: 1.5em;
+    width: 10em;
+}
+
+input[type=button]{
+    border: 1px solid black;
+    font-size: 1em;
+    background-color: rgb(53, 110, 110);
+    margin-right: 1.08em;
+    width: 3em;
+}
+
+main{
+    margin-left: 40%;
+    margin-top: 3em;
+}
+
+#res{
+    color: red;
+    font-size: 2em;
+}
